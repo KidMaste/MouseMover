@@ -1,4 +1,4 @@
-use mouse_rs::{Mouse};
+use mouse_rs::{types::keys::Keys, Mouse};
 use std::{thread, time};
 
 fn main() {
